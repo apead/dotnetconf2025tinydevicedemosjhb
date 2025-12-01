@@ -1,6 +1,6 @@
 # 🚀 Tiny Devices, Big Potential: .NET & C# IoT
 
-![Promo Image](images/promo.PNG)
+![Promo Image](images/promo.png)
 
 ## .NET Conf 2025 Community Edition - South Africa
 
