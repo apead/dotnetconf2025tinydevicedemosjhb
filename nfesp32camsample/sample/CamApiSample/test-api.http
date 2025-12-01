@@ -1,0 +1,15 @@
+### Upload Image Test
+POST http://localhost:5000/api/Image/upload
+Content-Type: image/jpeg
+
+< ./test-image.jpg
+
+###
+
+### List All Images
+GET http://localhost:5000/api/Image/list
+
+###
+
+### Health Check (for testing if API is running)
+GET http://localhost:5000/api/Image/list
